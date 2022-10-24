@@ -24,4 +24,17 @@
     
 h4, h6 {
     color: gray;
+
+}
+
+.timimage {
+    background-repeat: no-repeat;
+    
+}
+#tim1 {
+    width: 50%;
+
+}
+#tim2 {
+    width: 43%;
 }
