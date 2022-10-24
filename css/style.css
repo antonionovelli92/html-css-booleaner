@@ -22,7 +22,7 @@
     color: rgb(22, 126, 206);
 }
     
-h4, h6 {
+h4, h6, h5{
     color: gray;
 
 }
@@ -75,3 +75,19 @@ ul {
     #secondrow, #fourthrow{
         background-color: rgb(130, 180, 228);
     }
+
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+    font-size: 140%;
+    background-size: contain;
+
+    
+    
+}
+#descrizione {
+    margin-left: 10%;
+    color: white;
+    font-size: large;
+}
