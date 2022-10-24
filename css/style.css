@@ -48,3 +48,30 @@ figcaption{
 ul { 
 	padding-inline-start: 10px;
 	}
+    #firstrow{
+        background-color: rgb(43, 106, 201);
+        color: white;
+        border-collapse: collap
+        
+    }
+
+    table {
+        border-spacing: 0;
+        width: 100%;
+    }
+
+    th, td{
+        padding: 10px;
+    }
+    #primo, #secondo{
+        width: 25%;
+        text-align: left;
+    }
+    
+    #terzo {
+        width: 50%;
+        text-align: left;
+    } 
+    #secondrow, #fourthrow{
+        background-color: rgb(130, 180, 228);
+    }
